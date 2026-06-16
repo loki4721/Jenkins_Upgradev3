@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Hello and welcome to the java platform this is my first mavenjob !!!");
+	  System.out.println("Hello from Main Method & Hello and welcome to the java platform this is my first maven job !!!");
   }
 	
 }
